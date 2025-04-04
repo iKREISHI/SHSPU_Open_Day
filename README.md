@@ -4,5 +4,6 @@
 ## [2. Основы HTML](lessons/html-1.md)
 ## [2.1. HTML пример](lessons/html-2-example.md)
 ## [3. JavaScript](lessons/javascript-1.md)
+## [3.1 Основы базового синтаксиса JavaScript](lessons/javascript-2.md)
 
 
