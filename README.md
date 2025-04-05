@@ -6,4 +6,6 @@
 ## [3. JavaScript](lessons/javascript-1.md)
 ## [3.1 Основы базового синтаксиса JavaScript](lessons/javascript-2.md)
 
+## [4. Кликер](lessons/Footsteps.md)
+
 
